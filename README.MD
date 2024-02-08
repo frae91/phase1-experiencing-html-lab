@@ -4,8 +4,8 @@
 - How to write text for the web
 - Create a complete HTML document
     1. Code an `h1` tag
-    2. Code a `p` tag
-    3. Add an `id` attribute
+    1. Code a `p` tag
+    1. Add an `id` attribute
 
 ## Getting Started
 Fork and clone this into your local environment. Navigate into its directory in your terminal, and then run `code .` to open files in Visual Studio Code. Run `npm install` to fetch this laboratory’s dependencies and run `npm test` as you go to see your test progress.
@@ -28,7 +28,7 @@ Now that you have successfully written your first HTML tag (the `h1` tag), add a
 
 Insert the text `A quick brown fox jumped over the lazy dog` inside the opening and closing `p` tags. Run `npm test` and check the output in your browser.
 
-# Add the `id` Attribute to Your `p` Tag
+## Add the `id` Attribute to Your `p` Tag
 When you have successfully added the `p` tag, let’s add an `id` attribute to that `p` tag. This attribute specifies a unique id for an HTML element which can be used to target for styling (with CSS) and adding behavior (with JS).
 
 Inside the opening `p` tag, write `id=””` and inside the quotation marks is where you’ll be specifying the value for the id attribute. Go ahead and write `firstParagraph` to it. Run `npm test` to check.
