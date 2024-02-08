@@ -31,7 +31,7 @@ Insert the text `A quick brown fox jumped over the lazy dog` inside the opening 
 ## Add the `id` Attribute to Your `p` Tag
 When you have successfully added the `p` tag, let’s add an `id` attribute to that `p` tag. This attribute specifies a unique id for an HTML element which can be used to target for styling (with CSS) and adding behavior (with JS).
 
-Inside the opening `p` tag, write `id=””` and inside the quotation marks is where you’ll be specifying the value for the id attribute. Go ahead and write `firstParagraph` to it. Run `npm test` to check.
+Inside the opening `p` tag, write `id=""` and inside the quotation marks is where you’ll be specifying the value for the id attribute. Go ahead and write `firstParagraph` to it. Run `npm test` to check.
 
 ## Stretch Goal
 Congratulations! You have successfully completed the Experiencing HTML Lab. Go ahead and tinker with this laboratory by adding a few heading elements (`h2` - `h6`) and some other `p` elements.
