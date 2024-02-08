@@ -1,0 +1,18 @@
+{
+  "name": "phase1-experiencing-html-lab",
+  "version": "1.0.0",
+  "description": "Experiencing HTML Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R mocha-multi --timeout 5000 --reporter-options spec=-,json=.results.json"
+  },
+  "author": "Frae Valdehuesa",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-dom": "^1.12.0",
+    "global-jsdom": "^24.0.0",
+    "mocha": "^10.2.0",
+    "mocha-multi": "^1.1.7"
+  }
+}
